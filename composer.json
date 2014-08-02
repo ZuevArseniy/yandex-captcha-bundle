@@ -1,5 +1,5 @@
 {
-    "name": "ars-zuev/symfony-yandex-captcha",
+    "name": "azuev/yandex-captcha-bundle",
     "description": "Yandex captcha bundle for symfony 2",
     "authors": [
         {
