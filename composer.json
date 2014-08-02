@@ -1,0 +1,12 @@
+{
+    "name": "ars-zuev/symfony-yandex-captcha",
+    "description": "Yandex captcha bundle for symfony 2",
+    "authors": [
+        {
+            "name": "Arseniy Zuev",
+            "email": "arseniy.zuev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
