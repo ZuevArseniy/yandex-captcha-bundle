@@ -1,0 +1,7 @@
+parameters:
+#    yandex_captcha.example.class: AZuev\YandexCaptchaBundle\Example
+
+services:
+#    yandex_captcha.example:
+#        class: %yandex_captcha.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
